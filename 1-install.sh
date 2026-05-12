@@ -502,7 +502,7 @@ echo "
 #########################################################
 "
 echo ""
-wal -i ~/archcraft-dots/Wallpapers/default.png
+wal -i ~/.cache/current-wallpaper.png
 echo "Pywal16 templates initiated!"
 echo ""
 echo ""
