@@ -69,4 +69,4 @@ screen recordings are saved by default to your ~/videos/Recordings directory
 # share your own files on github 
   - so we can all learn
   - and you have a backup
-  - playing around
+  - playing around with dotfile update script
