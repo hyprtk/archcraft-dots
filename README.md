@@ -63,6 +63,6 @@ PLEASE BACKUP YOUR EXISTING .config WITH YOUR DOTFILES BEFORE STARTING THE SCRIP
 ## Screenshots & Video
 
 Arch Linux
-![MODEL](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/arch1.png)
-![Model](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/arch2.png)
-![Model](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/arch3.png)
+![MODEL](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/archcraft1.png)
+![Model](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/archcraft2.png)
+![Model](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/archcraft3.png)
