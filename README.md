@@ -62,7 +62,7 @@ PLEASE BACKUP YOUR EXISTING .config WITH YOUR DOTFILES BEFORE STARTING THE SCRIP
 #Please note that every Arch Linux system is different and I cannot guarantee that everything works fine on your system.
 ## Screenshots & Video
 
-Arch Linux
+Archcraft Linux
 ![MODEL](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/archcraft1.png)
 ![Model](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/archcraft2.png)
 ![Model](https://github.com/hyprtk/archcraft-dots/blob/main/screenshots/archcraft3.png)
