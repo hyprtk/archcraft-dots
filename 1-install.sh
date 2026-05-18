@@ -538,6 +538,7 @@ echo "-------------------------------------"
 echo "-> Install Hyprland archcraft-dots"
 echo "-------------------------------------"
 echo ""
+mv ~/.config/hypr ~/.config/hypr-old
 _installSymLink hypr ~/.config/hypr ~/archcraft-dots/hypr/ ~/.config
 _installSymLink fastfetch ~/.config/fastfetch ~/archcraft-dots/fastfetch/ ~/.config
 _installSymLink waybar ~/.config/waybar ~/archcraft-dots/waybar/ ~/.config
